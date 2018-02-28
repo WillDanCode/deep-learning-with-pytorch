@@ -7,7 +7,7 @@
 
 ## Prasyarat
 
-Selama kamu mengetahui apa yand ada di bawah ini, silahkan melanjutkan.
+Selama kamu mengetahui apa yang ada di bawah ini, silahkan melanjutkan.
 
 - Aljabar Dasar:
     - ![persamaan](images/1.gif) 
