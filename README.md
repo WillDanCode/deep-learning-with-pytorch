@@ -10,11 +10,11 @@
 Selama kamu mengetahui apa yand ada di bawah ini, silahkan melanjutkan.
 
 - Aljabar Dasar:
-    - $y = 5x + 2$
-    - $y = 2(5x + 2) = 10x + 4$
+    - ![persamaan](images/1.gif) 
+    - ![persamaan](images/2.gif)
 - Turunan Dasar:
-    - Turunan dari $(5x + 1)^2$
-    - $ 2(5x + 1) $
+    - ![persamaan](images/3.gif) 
+    - ![persamaan](images/4.gif)
 - Dasar Python
     - List, Dictionaries, dan Tuples
     - Loops
