@@ -13,7 +13,7 @@ Selama kamu mengetahui apa yand ada di bawah ini, silahkan melanjutkan.
     - ![persamaan](images/1.gif) 
     - ![persamaan](images/2.gif)
 - Turunan Dasar:
-    - ![persamaan](images/3.gif) 
+    - Turunan dari ![persamaan](images/3.gif) 
     - ![persamaan](images/4.gif)
 - Dasar Python
     - List, Dictionaries, dan Tuples
